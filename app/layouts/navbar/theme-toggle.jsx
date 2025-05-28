@@ -37,5 +37,7 @@ export const ThemeToggle = ({ isMobile, ...rest }) => {
         />
       </svg>
     </Button>
+
+
   );
 };
